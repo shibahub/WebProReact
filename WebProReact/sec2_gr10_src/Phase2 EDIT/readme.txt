@@ -1,0 +1,1 @@
+We edit some part of the code in backend of our Phase 2. Example, add cors() and other request.
